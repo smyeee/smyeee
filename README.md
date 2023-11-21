@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @smyeee
-- 👀 I’m interested in artificial intelligence 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me somaye.uz@gmail.com
+java developer
 
 <!---
 smyeee/smyeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
